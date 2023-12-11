@@ -1,3 +1,31 @@
-# Pizza-Booking-System
+## React.js CRUD App with Json Server Using Axios
 
-Created a user-friendly pizza booking system with distinct user and admin functionalities. Admins can securely login to manage pizza options , while customers can place orders for pizza delivery. Additionally , designed an order history feature for admins to track customer orders efficiently.
+Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Naterial UI.
+
+React Tutorial Application in that:
+
+    Add User
+    Update User
+    Delete User
+    View Users
+
+
+# Project setup
+
+In the project directory, you can run:
+  
+    npm install
+     or
+    yarn install
+
+or
+Compiles and hot-reloads for development
+
+    npm start
+     or
+    yarn start
+
+
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
